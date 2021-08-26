@@ -1,0 +1,11 @@
+C:\Users\Alexey\Documents\stub\stbapi\stbapi\obj\Release\net5.0\PubTmp\Out\stbapi.exe
+C:\Users\Alexey\Documents\stub\stbapi\stbapi\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Alexey\Documents\stub\stbapi\stbapi\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\Alexey\Documents\stub\stbapi\stbapi\obj\Release\net5.0\PubTmp\Out\stbapi.dll
+C:\Users\Alexey\Documents\stub\stbapi\stbapi\obj\Release\net5.0\PubTmp\Out\stbapi.deps.json
+C:\Users\Alexey\Documents\stub\stbapi\stbapi\obj\Release\net5.0\PubTmp\Out\stbapi.runtimeconfig.json
+C:\Users\Alexey\Documents\stub\stbapi\stbapi\obj\Release\net5.0\PubTmp\Out\stbapi.pdb
+C:\Users\Alexey\Documents\stub\stbapi\stbapi\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Alexey\Documents\stub\stbapi\stbapi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Alexey\Documents\stub\stbapi\stbapi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Alexey\Documents\stub\stbapi\stbapi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
