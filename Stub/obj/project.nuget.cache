@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FjOVo64E9d33cjm6BDTH+QNVbUDDOk3POJu2Ux0AszqWBLJOo6lit4wW23fnysl9ABcW8a4pnvURkBhuEqB3rw==",
+  "dgSpecHash": "7i+W6C8gaDMXVSewLRwR8DHHGyIiufRonHzd63XsyfQ+6uUxXPjXu4H5aKWQmsCy9TM3DDUPFoT7IWSiPrherw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Alexey\\Documents\\lrnv\\Stub\\Stub.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\Alexey\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.1\\microsoft.aspnetcore.authentication.openidconnect.5.0.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Alexey\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Alexey\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Alexey\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.7.1\\microsoft.identitymodel.jsonwebtokens.6.7.1.nupkg.sha512",
     "C:\\Users\\Alexey\\.nuget\\packages\\microsoft.identitymodel.logging\\6.7.1\\microsoft.identitymodel.logging.6.7.1.nupkg.sha512",
     "C:\\Users\\Alexey\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.7.1\\microsoft.identitymodel.protocols.6.7.1.nupkg.sha512",

@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Ingirgidient.Service
 {
-    interface IIngidientService
+    public interface IIngidientService
     {
+        Int32 GetDensity();
+        String GetListOfDishes();
     }
 }

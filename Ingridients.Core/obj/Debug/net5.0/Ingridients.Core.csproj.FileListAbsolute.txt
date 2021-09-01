@@ -1,0 +1,11 @@
+C:\Users\Alexey\Documents\lrnv\Ingridients.Core\bin\Debug\net5.0\Ingridients.Core.deps.json
+C:\Users\Alexey\Documents\lrnv\Ingridients.Core\bin\Debug\net5.0\Ingridients.Core.dll
+C:\Users\Alexey\Documents\lrnv\Ingridients.Core\bin\Debug\net5.0\ref\Ingridients.Core.dll
+C:\Users\Alexey\Documents\lrnv\Ingridients.Core\bin\Debug\net5.0\Ingridients.Core.pdb
+C:\Users\Alexey\Documents\lrnv\Ingridients.Core\obj\Debug\net5.0\Ingridients.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexey\Documents\lrnv\Ingridients.Core\obj\Debug\net5.0\Ingridients.Core.AssemblyInfoInputs.cache
+C:\Users\Alexey\Documents\lrnv\Ingridients.Core\obj\Debug\net5.0\Ingridients.Core.AssemblyInfo.cs
+C:\Users\Alexey\Documents\lrnv\Ingridients.Core\obj\Debug\net5.0\Ingridients.Core.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\Documents\lrnv\Ingridients.Core\obj\Debug\net5.0\Ingridients.Core.dll
+C:\Users\Alexey\Documents\lrnv\Ingridients.Core\obj\Debug\net5.0\ref\Ingridients.Core.dll
+C:\Users\Alexey\Documents\lrnv\Ingridients.Core\obj\Debug\net5.0\Ingridients.Core.pdb
